@@ -31,7 +31,6 @@ Joblib
 The dataset contains medical information such as:
 
 Age
-
 Chest Pain Type
 Resting Blood Pressure
 Cholesterol
