@@ -9,6 +9,7 @@ The Heart Disease Prediction System is designed to assist in predicting whether 
 This project uses Machine Learning algorithms for prediction and Streamlit for building an interactive web interface.
 
 🚀 Features
+
 Predict heart disease risk instantly
 User-friendly Streamlit web application
 Data preprocessing and feature scaling
@@ -17,6 +18,7 @@ Real-time prediction results
 Simple and responsive interface
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -29,7 +31,6 @@ Joblib
 📊 Dataset Information
 
 The dataset contains medical information such as:
-
 Age
 Chest Pain Type
 Resting Blood Pressure
@@ -46,6 +47,7 @@ Target (Heart Disease)
 
 
 🧠 Machine Learning Workflow
+
 Data Collection
 Data Cleaning
 Handling Missing Values
